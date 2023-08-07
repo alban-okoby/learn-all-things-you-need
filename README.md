@@ -1,4 +1,5 @@
 # Learn what you need to 
+## 00 [The Algorithm](https://github.com/TheAlgorithms)
 ## 01 - Learn Python 
 ## Why learn python ? 
 Quelques raisons d'apprendre python :
