@@ -1,3 +1,21 @@
+# Learn what you need to 
+## 01 - Learn Python 
+## Why learn python ? 
+Quelques raisons d'apprendre python :
+- Facile à apprendre -> Python a peu de mots-clés, une structure simple et une syntaxe clairement définie. Cela permet à l'étudiant d'apprendre rapidement la langue.
+
+- Facile à lire −> Le code Python est plus clairement défini et visible pour les yeux.
+- Facile à entretenir −> Le code source de Python est assez facile à entretenir.
+- Une large bibliothèque standard -> La majeure partie de la bibliothèque de Python est très portable et compatible multiplateforme sur UNIX, Windows et Mac.
+- Mode interactif -> Python prend en charge un mode interactif qui permet des tests interactifs et le débogage d'extraits de code.
+- Portable -> Python peut fonctionner sur une grande variété de plates-formes matérielles et possède la même interface sur toutes les plates-formes.
+- Extensible - Vous pouvez ajouter des modules de bas niveau à l'interpréteur Python. Ces modules permettent aux programmeurs de compléter ou de personnaliser leurs outils pour être plus efficaces.
+- Bases de données −> Python fournit des interfaces avec toutes les principales bases de données commerciales.
+- Programmation GUI -> Python prend en charge les applications GUI qui peuvent être créées et portées sur de nombreux appels système, bibliothèques et systèmes Windows, tels que Windows MFC, Macintosh et le système X Window d'Unix.
+- Évolutif -> Python offre une meilleure structure et un meilleur support pour les grands programmes que les scripts shell
+- Python est interprété -> Python est traité au moment de l'exécution par l'interpréteur. Vous n'avez pas besoin de compiler votre programme avant de l'exécuter. Ceci est similaire à PERL et PHP 
+- Python est orienté objet -> Python prend en charge le style ou la technique de programmation orienté objet qui encapsule le code dans des objets.
+- Python est un langage pour débutants - Python est un excellent langage pour les programmeurs débutants et prend en charge le développement d'une large gamme d'applications allant du simple traitement de texte aux navigateurs WWW en passant par les jeux.
 
 ## Python tutorials 
 ### Python for beginners
@@ -5,3 +23,4 @@
 
 ### Python framework (Django)
 [create_revisiting_app](https://overiq.com/django-1-10/revisiting-cadmin-app/)
+
