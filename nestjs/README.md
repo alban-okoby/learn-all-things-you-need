@@ -7,3 +7,4 @@ Learn nestjs for the strongly architecture
 | Chapters | Subjets  | Links |
 |:-----|:--------:|------:|
 | 00   | **Introduction** | [00-nestjs](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/nestjs/00-nestjs) |
+| 00   | **environments** | [01-first-step](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/nestjs/00-nestjs) |
