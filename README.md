@@ -1,6 +1,11 @@
 # Learn what you need to 
-## 00 [The Algorithm](https://github.com/TheAlgorithms)
-## 01 - Learn Python 
+
+| Logo | Name | Subjets  | Links |
+|:-----|:--------:|:--------:|------:|
+|  Algorythm  | **ALGORYTHM** | [The Algorithm](https://github.com/TheAlgorithms) | | 
+| <img src="https://nestjs.com/img/logo-small.svg" width="50" alt="Nest Logo" /> | Nestjs | [learn nestjs](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/nestjs) | 
+
+## Learn Python 
 ## Why learn python ? 
 Quelques raisons d'apprendre python :
 - Facile à apprendre -> Python a peu de mots-clés, une structure simple et une syntaxe clairement définie. Cela permet à l'étudiant d'apprendre rapidement la langue.
