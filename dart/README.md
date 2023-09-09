@@ -1,16 +1,41 @@
 # Learn Dart and Flutter
 Voici une feuille de route d'apprentissage pour Dart et Flutter. Cette feuille de route est divisée en étapes progressives, en commençant par les bases de Dart et en progressant jusqu'à la création d'applications mobiles complètes avec Flutter.
 
-## Étape 1 : Apprendre Dart
-
 <strong>Objectif :<strong> Comprendre les bases de Dart, le langage de programmation utilisé avec Flutter.
 
-#### Introduction à Dart :
+## Étape 0 : Installation de l'envireonement
 
 Comprendre ce qu'est Dart et pourquoi il est utilisé avec Flutter.
 Installer Dart sur ton système.
-Syntaxe de base :
 
+1. Installer [https://chocolatey.org/install](https://chocolatey.org/install)
+2. Installer dart en exécutant : 
+
+2.1) Sous windows 
+```bash
+choco install dart-sdk
+```
+👇🏽👇🏽
+<img src="files/w_install_dart.png" alt="image install windows"/>
+2.2) Sous Linux 
+```bash
+ sudo apt-get update
+ sudo apt-get install apt-transport-https
+ wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/dart.gpg
+ echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main' | sudo tee /etc/apt/sources.list.d/dart_stable.list
+```
+puis 
+```bash
+ sudo apt-get update
+ sudo apt-get install dart
+```
+Modifier PATH pour accéder à tous les binaires Dart
+```bash
+export PATH="$PATH:/usr/lib/dart/bin"
+```
+## Étape 1 : Apprendre Dart
+### Introduction à Dart :
+<!-- Syntaxe de base :
 Apprendre les concepts de base : variables, types de données, opérateurs.
 Utiliser les structures de contrôle : if, else, while, for.
 Fonctions :
@@ -30,7 +55,7 @@ Gestion des erreurs :
 Comprendre la gestion des erreurs et les exceptions en Dart.
 Programmation asynchrone :
 
-Apprendre à utiliser les futures et les streams pour la programmation asynchrone.
+Apprendre à utiliser les futures et les streams pour la programmation asynchrone. -->
 
 | Chap | Description |
 | -------- | ----------- | 
