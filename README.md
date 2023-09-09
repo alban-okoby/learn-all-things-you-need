@@ -4,7 +4,10 @@
 |:-----|:--------:|:--------:|------:|
 |  Algorythm  | **ALGORYTHM** | [The Algorithm](https://github.com/TheAlgorithms) | | 
 | <img src="https://nestjs.com/img/logo-small.svg" width="50" alt="Nest Logo" /> | Nestjs | [learn nestjs](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/nestjs) | 
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="50" alt="Nest Logo" /> | Dart | [learn dart](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/dart/hello-world/hello_world.dart) | 
 
+...
+<!-- 
 ## Learn Python 
 ## Why learn python ? 
 Quelques raisons d'apprendre python :
@@ -29,4 +32,7 @@ Quelques raisons d'apprendre python :
 
 ### Python framework (Django)
 [create_revisiting_app](https://overiq.com/django-1-10/revisiting-cadmin-app/)
+ -->
 
+ Have happy learning ✨ <br>
+ Alban 🐱‍👤
