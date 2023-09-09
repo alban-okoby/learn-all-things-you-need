@@ -15,7 +15,8 @@ Installer Dart sur ton système.
 ```bash
 choco install dart-sdk
 ```
-👇🏽👇🏽
+👇🏽👇🏽 <br>
+
 <img src="files/w_install_dart.png" alt="image install windows"/>
 2.2) Sous Linux 
 ```bash
@@ -59,5 +60,5 @@ Apprendre à utiliser les futures et les streams pour la programmation asynchron
 
 | Chap | Description |
 | -------- | ----------- | 
-| [0x00-hello_world](0x00-hello_world) | Say hello  |
+| [0x00-hello_world](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/dart/hello-world) | Say hello  |
 .
