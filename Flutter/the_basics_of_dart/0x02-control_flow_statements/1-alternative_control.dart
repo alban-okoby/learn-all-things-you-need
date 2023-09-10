@@ -3,7 +3,7 @@ void main () {
 
   if (succes) { 
     print("Great work 🎉👏👏");
-  } else if (succes == false) {
+  } else {
     print("Sorry ❌ you don't have access");
   }
 
