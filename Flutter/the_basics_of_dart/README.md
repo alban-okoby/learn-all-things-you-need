@@ -29,5 +29,6 @@ Apprendre à utiliser les futures et les streams pour la programmation asynchron
 -->
 | Chap | Description |
 | -------- | ----------- | 
-| [0x00-dart_hello_world](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart/hello-world) | Say hello  |
+| [0x00-dart_hello_world](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart/0x00-hello-world) | Say hello  |
+| [0x01-dart_vars](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart/0x01-variables) | Use vars  |
 
