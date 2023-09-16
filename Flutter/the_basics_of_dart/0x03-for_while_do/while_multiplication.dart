@@ -1,7 +1,11 @@
 void main() {
-  int multi = 11;
+  int multi = 3;
+  int i = 0;
   int result = 0;
 
-  
-  print("$multi x $i = $result");
+  while(i < 11) {
+    result = i * multi;
+    print("$multi x $i = $result");
+    i++;
+  }
 }
