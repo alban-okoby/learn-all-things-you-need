@@ -4,7 +4,7 @@
 |:-----|:--------:|:--------:|------:|
 |  Algorythm  | **ALGORYTHM** | [The Algorithm](https://github.com/TheAlgorithms) | | 
 | <img src="https://nestjs.com/img/logo-small.svg" width="50" alt="Nest Logo" /> | Nestjs | [learn nestjs](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/nestjs) | 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="50" alt="Nest Logo" /> | Dart | [learn dart](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart) | 
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" width="50" alt="Nest Logo" /> | Dart/Flutter | [learn dart](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart) | 
 
 ...
 <!-- 
