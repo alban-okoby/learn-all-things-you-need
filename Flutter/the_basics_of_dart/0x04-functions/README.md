@@ -12,7 +12,12 @@ Valeur de Retour :
 
 | Etude | Description | Exercices |
 | -------- | ----------- |-------- |
-| [void](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart/0x0d-functions/void.dart) | La fonction de type `void` ne retourne aucune valeur | Ecrire une function sans valeur de retour.  |
+| [void function](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart/0x0d-functions/void.dart) | La fonction de type `void` ne retourne aucune valeur | Ecrire une function sans valeur de retour.  |
+| [Return value function](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart/0x0d-functions/3-returnValue.dart) | Une fonction avec un type de retour (`return`) | Ecrire une function retournant une valeur. |
+| [params function](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart/0x0d-functions/1-parameters.dart) | Une fonction avec des paramètres | Ecrire une function prenant des paramètres en entré. |
+| [optional params function](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart/0x0d-functions/2-optional_parameters.dart) | Une fonction avec un paramètre optionnel | Ecrire une function prenant un paramètre optionnel en entré. |
+
+
 
 
  Have happy learning ✨ <br>
