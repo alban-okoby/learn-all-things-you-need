@@ -8,7 +8,9 @@ void main () {
    * functionWithParams (function)
   */
   int functionWithParams(int x, int y) {
-   return (x + y);
+    return (x + y);
   }
-
+  
+  // Print the result of the function
+  print(functionWithParams(2, -15));
 }
