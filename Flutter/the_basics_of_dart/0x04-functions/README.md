@@ -17,7 +17,20 @@ Valeur de Retour :
 | [params function](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart/0x0d-functions/1-parameters.dart) | Une fonction avec des paramètres | Ecrire une function prenant des paramètres en entré. |
 | [optional params function](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart/0x0d-functions/2-optional_parameters.dart) | Une fonction avec un paramètre optionnel | Ecrire une function prenant un paramètre optionnel en entré. |
 
+## Exercices supplémentaires
 
+Quelques execices sur les Fonctions
+### Exercice 1 : Calcul de la Factorielle
+Écrivez une fonction qui calcule la factorielle d'un nombre entier positif. La factorielle de n (notée n!) est le produit de tous les entiers de 1 à n. Par exemple, `5! = 5 * 4 * 3 * 2 * 1`.
+
+### Exercice 2 : Vérification de Palindrome
+Écrivez une fonction qui vérifie si un mot est un palindrome. Un palindrome est un mot qui se lit de la même manière de gauche à droite et de droite à gauche.
+
+### Exercice 3 : Génération de Nombres Premiers
+Écrivez une fonction qui génère les n premiers nombres premiers.
+
+### Exercice 4 : Conversion de Température
+Écrivez une fonction qui convertit une température de degrés Celsius en degrés Fahrenheit et vice versa. Utilisez la formule de conversion : `F = C * 9/5 + 32`.
 
 
  Have happy learning ✨ <br>
