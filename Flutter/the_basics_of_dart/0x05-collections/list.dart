@@ -1,12 +1,16 @@
 void main() {
+/**
+ * Learn Dart (collections)
+ * @author [Alban Okoby](https://www.github.com/alban-okoby)
+*/
 
   // Declare an integers list
   List<int> myList = [1, 2, 3, 4, 5];
-  
+
   // Add one new value of list
   myList.add(17);
 
- // Let's declare a new list of integers
+  // Let's declare a new list of integers
   List<int> notes = [10, 08, 19, 03];
 
   // Add many value of the list
