@@ -1,5 +1,10 @@
 import 'dart:collection';
 
+/**
+ * Learn Dart (collections)
+ * @author [Alban Okoby](https://www.github.com/alban-okoby)
+*/
+
 void main() {
 
   // Declare a Queue collection

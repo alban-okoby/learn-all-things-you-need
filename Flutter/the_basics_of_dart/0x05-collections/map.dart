@@ -1,5 +1,9 @@
 void main () {
-  
+  /**
+   * Learn Dart (collections)
+   * @author [Alban Okoby](https://www.github.com/alban-okoby)
+  */
+
   // Declare a Map 
   Map<String, int> cars = new Map<String, int>();
 
