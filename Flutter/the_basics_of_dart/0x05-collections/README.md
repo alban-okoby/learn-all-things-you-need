@@ -22,14 +22,50 @@ Les collections sont essentielles en programmation pour stocker et gérer des en
 | [SplayTreeSet ](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/Flutter/the_basics_of_dart/0x05-collections/queue.dart) | Un Ensemble d'Arbres Splay (`SplayTreeSet `) est : <ul> <li> Un ensemble trié qui utilise une structure d'arbre splay. </li> <li> Les éléments sont automatiquement triés lors de l'insertion. </li> <li> Permet des opérations de recherche plus rapides sur des données triées. </li> </ul>  | Déclarer une **SplayTreeSet** , accéder, ajouter, supprimer ses éléments. |
 
 
-### Excercices
+## Excercices
 
-#### Excercice 1 (SET)
-**Objectif** : Écrivez une fonction qui prend une liste d'éléments en entrée et renvoie un ensemble (Set) contenant les mêmes éléments, mais sans doublons.
+### Excercice 1 (SET)
+**Objectif** : Pouvoir écrire une fonction qui prend une liste d'éléments en entrée et renvoie un ensemble (Set) contenant les mêmes éléments, mais sans doublons.
 
 **Description** : Écrivez une fonction qui prend une liste en entrée et crée un ensemble à partir des éléments de la liste. Ensuite, renvoyez cet ensemble sans les doublons. Par exemple, si la liste d'entrée est [1, 2, 2, 3, 4, 4, 5], la fonction devrait renvoyer un ensemble contenant [1, 2, 3, 4, 5].
 
-#### Excercise 2 (SET)
-**Objectif** : Écrivez une fonction qui prend deux listes en entrée et renvoie un ensemble contenant les éléments communs aux deux listes.
+### Excercise 2 (SET)
+**Objectif** : Pouvoir écrire une fonction qui prend deux listes en entrée et renvoie un ensemble contenant les éléments communs aux deux listes.
 
-**Description** : Écrivez une fonction qui prend deux listes en entrée et crée un ensemble contenant les éléments qui se trouvent à la fois dans la première liste et dans la deuxième liste. Par exemple, si les deux listes sont [1, 2, 3] et [2, 3, 4], la fonction devrait renvoyer un ensemble contenant [2, 3].
+**Description** : Pouvoir écrire une fonction qui prend deux listes en entrée et crée un ensemble contenant les éléments qui se trouvent à la fois dans la première liste et dans la deuxième liste. Par exemple, si les deux listes sont [1, 2, 3] et [2, 3, 4], la fonction devrait renvoyer un ensemble contenant [2, 3].
+
+### Exercice 3 (Map) : Calculateur de Statistiques
+**Objectif** : Pouvoir écrire une fonction qui prend une liste de nombres en entrée et renvoie un ensemble de statistiques, y compris la moyenne, la valeur minimale et la valeur maximale.
+
+**Description** : Écrivez une fonction qui prend une liste de nombres en entrée et renvoie une carte (Map) contenant la moyenne, la valeur minimale et la valeur maximale de la liste. Par exemple, si la liste d'entrée est [12, 5, 8, 17, 9], la fonction devrait renvoyer une carte contenant { 'moyenne': 10.2, 'min': 5, 'max': 17 }.
+
+### **Exercice** 4 (Map) : Gestion de Produits
+**Objectif** : Pouvoir écrire un programme qui gère une liste de produits et permet d'ajouter, de supprimer et de rechercher des produits par leur nom.
+
+**Description** : Écrivez un programme qui utilise une carte (Map) pour gérer une liste de produits. Vous devrez implémenter trois fonctions :
+
+- Une fonction pour ajouter un produit avec un nom et un prix.
+- Une fonction pour supprimer un produit par son nom.
+- Une fonction pour rechercher un produit par son nom et renvoyer son prix.
+
+### **Exercice** 5 (Queue) : Gestionnaire de Tâches
+Objectif : Pouvoir écrire un programme qui simule un gestionnaire de tâches. Les utilisateurs peuvent ajouter des tâches à une file d'attente et les marquer comme terminées.
+
+**Description** : Écrivez un programme qui permet aux utilisateurs d'ajouter des tâches à une file d'attente et de marquer les tâches comme terminées. Vous devrez implémenter les fonctions suivantes :
+
+- Une fonction pour ajouter une tâche à la file d'attente.
+- Une fonction pour marquer la première tâche de la file comme terminée et la retirer de la file.
+- Une fonction pour afficher la file d'attente des tâches restantes.
+
+### **Exercice** 6 (Queue): File de Messages
+Objectif : Écrivez un programme qui gère une file de messages. Les messages sont ajoutés à la file et peuvent être lus dans l'ordre où ils ont été ajoutés.
+
+**Description** : Écrivez un programme qui permet aux utilisateurs d'ajouter des messages à une file et de les lire dans l'ordre. Vous devrez implémenter les fonctions suivantes :
+
+- Une fonction pour ajouter un message à la file.
+- Une fonction pour lire le message en tête de file et le retirer de la file.
+- Une fonction pour afficher la file de messages.
+
+<br>
+ Have happy learning ✨ <br>
+ Alban 🐱‍👤
