@@ -39,8 +39,8 @@ Les collections sont essentielles en programmation pour stocker et gérer des en
 
 **Description** : Écrivez une fonction qui prend une liste de nombres en entrée et renvoie une carte (Map) contenant la moyenne, la valeur minimale et la valeur maximale de la liste. Par exemple, si la liste d'entrée est [12, 5, 8, 17, 9], la fonction devrait renvoyer une carte contenant { 'moyenne': 10.2, 'min': 5, 'max': 17 }.
 
-### **Exercice** 4 (Map) : Gestion de Produits
-**Objectif** : Pouvoir écrire un programme qui gère une liste de produits et permet d'ajouter, de supprimer et de rechercher des produits par leur nom.
+### Exercice 4 (Map) : Gestion de Produits
+**Objectif** : Pouvoir écrire un programme qui gère une liste de produits et permet d'ajouter, de supprimer et de rechercher des produits par leur nom en utilisant `Map`.
 
 **Description** : Écrivez un programme qui utilise une carte (Map) pour gérer une liste de produits. Vous devrez implémenter trois fonctions :
 
@@ -48,8 +48,8 @@ Les collections sont essentielles en programmation pour stocker et gérer des en
 - Une fonction pour supprimer un produit par son nom.
 - Une fonction pour rechercher un produit par son nom et renvoyer son prix.
 
-### **Exercice** 5 (Queue) : Gestionnaire de Tâches
-Objectif : Pouvoir écrire un programme qui simule un gestionnaire de tâches. Les utilisateurs peuvent ajouter des tâches à une file d'attente et les marquer comme terminées.
+### Exercice 5 (Queue) : Gestionnaire de Tâches
+**Objectif** : Pouvoir écrire un programme qui simule un gestionnaire de tâches en utilisant `Queue`. Les utilisateurs peuvent ajouter des tâches à une file d'attente et les marquer comme terminées.
 
 **Description** : Écrivez un programme qui permet aux utilisateurs d'ajouter des tâches à une file d'attente et de marquer les tâches comme terminées. Vous devrez implémenter les fonctions suivantes :
 
@@ -57,7 +57,7 @@ Objectif : Pouvoir écrire un programme qui simule un gestionnaire de tâches. L
 - Une fonction pour marquer la première tâche de la file comme terminée et la retirer de la file.
 - Une fonction pour afficher la file d'attente des tâches restantes.
 
-### **Exercice** 6 (Queue): File de Messages
+### Exercice 6 (Queue): File de Messages
 Objectif : Écrivez un programme qui gère une file de messages. Les messages sont ajoutés à la file et peuvent être lus dans l'ordre où ils ont été ajoutés.
 
 **Description** : Écrivez un programme qui permet aux utilisateurs d'ajouter des messages à une file et de les lire dans l'ordre. Vous devrez implémenter les fonctions suivantes :
@@ -65,6 +65,38 @@ Objectif : Écrivez un programme qui gère une file de messages. Les messages so
 - Une fonction pour ajouter un message à la file.
 - Une fonction pour lire le message en tête de file et le retirer de la file.
 - Une fonction pour afficher la file de messages.
+
+### Exercice 7 : Liste Unique d'Étudiants (LinkedHashSet)
+**Objectif** : Pouvoir écrire un programme qui gère une liste unique d'étudiants en utilisant `LinkedHashSet`.
+
+**Description** : Écrivez un programme qui permet aux utilisateurs d'ajouter des noms d'étudiants à une liste unique tout en maintenant l'ordre d'ajout. Vous devrez implémenter les fonctions suivantes :
+
+- Une fonction pour ajouter un nom d'étudiant à la liste.
+- Une fonction pour afficher la liste de noms d'étudiants unique dans l'ordre d'ajout.
+
+### Exercice 8 : Liste Unique de Produits (LinkedHashSet)
+**Objectif** : Écrire un programme qui gère une liste d'éléments (produits) uniques en utilisant `LinkedHashSet`.
+
+**Description** : Écrivez un programme qui permet aux utilisateurs d'ajouter des produits à une liste unique tout en maintenant l'ordre d'ajout. Chaque produit est décrit par son nom. Vous devrez implémenter les fonctions suivantes :
+
+- Une fonction pour ajouter un produit à la liste.
+- Une fonction pour afficher la liste de produits unique dans l'ordre d'ajout.
+
+### Exercice 9 : Liste Triée de Dates (SplayTreeSet)
+**Objectif** : Pouvoir écrire un programme qui gère une liste triée d'éléments (dates) en utilisant `SplayTreeSet`.
+
+**Description** : Écrivez un programme qui permet aux utilisateurs d'ajouter des dates à une liste triée en utilisant `SplayTreeSet`. Vous devrez implémenter les fonctions suivantes :
+
+- Une fonction pour ajouter une date à la liste triée.
+- Une fonction pour afficher la liste triée dans l'ordre croissant.
+
+### Exercice 10 : Liste Triée de Nombres (SplayTreeSet)
+Objectif : pouvoir écrire un programme qui gère une liste triée d'éléments (nombres) en utilisant `SplayTreeSet`.
+
+**Description** : Écrivez un programme qui permet aux utilisateurs d'ajouter des nombres à une liste triée en utilisant `SplayTreeSet`. Vous devrez implémenter les fonctions suivantes :
+
+- Une fonction pour ajouter un nombre à la liste triée.
+- Une fonction pour afficher la liste triée dans l'ordre croissant.
 
 <br>
  Have happy learning ✨ <br>
