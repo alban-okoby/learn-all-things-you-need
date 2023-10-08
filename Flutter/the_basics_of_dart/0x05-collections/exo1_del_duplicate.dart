@@ -12,8 +12,8 @@ void main() {
   Set<int> notesFiltered = delDoublons(notes);
   
   // List with doublons
-  print(notes);
+  print(notes); // [18, 11, 2, 5, 18, 11]
 
   // List without doublons
-  print(notesFiltered);
+  print(notesFiltered); // {18, 11, 2, 5}
 }
