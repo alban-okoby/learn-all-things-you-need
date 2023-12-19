@@ -35,6 +35,8 @@ Flutter\the_basics_of_dart\0x05-collections\
 
 **Description** : Pouvoir écrire une fonction qui prend deux listes en entrée et crée un ensemble contenant les éléments qui se trouvent à la fois dans la première liste et dans la deuxième liste. Par exemple, si les deux listes sont [1, 2, 3] et [2, 3, 4], la fonction devrait renvoyer un ensemble contenant [2, 3].
 
+[Correction exercice 2](https://www.youtube.com/watch?v=qYkg-JYAttM&ab_channel=DigitalSouag) 
+
 ### Exercice 3 (Map) : Calculateur de Statistiques
 **Objectif** : Pouvoir écrire une fonction qui prend une liste de nombres en entrée et renvoie un ensemble de statistiques, y compris la moyenne, la valeur minimale et la valeur maximale.
 
