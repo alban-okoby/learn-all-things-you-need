@@ -1,3 +1,3 @@
-# day1_hello_application
+# day2_random_quotes_application
 
-A new Flutter project.
+A Random quote Flutter project.
