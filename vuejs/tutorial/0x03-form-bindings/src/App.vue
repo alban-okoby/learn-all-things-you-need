@@ -4,11 +4,8 @@ export default {
   data() {
     return {
       chap: "Form Bindings",
-      text: ''
+      text: "",
     };
-  },
-  methods: {
-   
   },
 };
 </script>
@@ -16,6 +13,6 @@ export default {
 <template>
   <h1>{{ chap }}</h1>
   <br />
-  <input v-model="text">
-  <p> {{ text }}  </p>
+  <input v-model="text" />
+  <p>{{ text }}</p>
 </template>
