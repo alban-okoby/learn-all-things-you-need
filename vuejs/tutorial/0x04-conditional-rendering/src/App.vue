@@ -16,6 +16,6 @@ export default {
 
 <template>
   <button @click="toggleContent">Toggle</button>
-  <h1 v-if="isUser">Public content + Member content</h1> </br>
+  <h1 v-if="isUser">Public content + Member content</h1>
   <h1 v-else>Only Public content </h1>
 </template>
