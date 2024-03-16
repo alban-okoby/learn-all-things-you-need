@@ -18,5 +18,5 @@ export default {
 </script>
 
 <template>
-  <Child :msg="msg"/>
+  <Child :msg="greeting"/>
 </template>

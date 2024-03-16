@@ -7,5 +7,5 @@
 </script>
 
 <template>
-    <h3>I'm a child component.</h3>
+    <h3>{{ msg || 'Aucune props passée actuellement à l\'enfant (Child)' }}</h3>
 </template>
