@@ -12,9 +12,3 @@ export default {
   <Child /> 
   <p>I'm parent élément</p>
 </template>
-
-
-<style>
-  .container {
-  }
-</style>
