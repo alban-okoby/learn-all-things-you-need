@@ -1,1 +1,1 @@
-Hello second content !: Hello first content !, Hello second content !
+Hello second content !
