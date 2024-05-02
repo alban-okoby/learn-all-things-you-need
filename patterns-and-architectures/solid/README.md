@@ -1,7 +1,7 @@
 ## SOLID 
 SOLID est un acronyme qui représente un ensemble de principes de conception en développement logiciel. Ces principes ont pour objectif d'améliorer la qualité du code et la maintenabilité des applications. 
 
-* [S (SPR)](#spr)
+* [S (Single Responsibility Principle)](#spr)
 * [O (OCP)](#ocp)
 * [L (LSP)](#lsp)
 * [I (ISP)](#ISP)
