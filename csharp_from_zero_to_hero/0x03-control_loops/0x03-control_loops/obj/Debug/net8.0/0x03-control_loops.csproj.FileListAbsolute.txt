@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\bin\Debug\net8.0\0x03-control_loops.exe
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\bin\Debug\net8.0\0x03-control_loops.deps.json
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\bin\Debug\net8.0\0x03-control_loops.runtimeconfig.json
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\bin\Debug\net8.0\0x03-control_loops.dll
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\bin\Debug\net8.0\0x03-control_loops.pdb
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\obj\Debug\net8.0\0x03-control_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\obj\Debug\net8.0\0x03-control_loops.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\obj\Debug\net8.0\0x03-control_loops.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\obj\Debug\net8.0\0x03-control_loops.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\obj\Debug\net8.0\0x03-control_loops.sourcelink.json
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\obj\Debug\net8.0\0x03-control_loops.dll
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\obj\Debug\net8.0\refint\0x03-control_loops.dll
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\obj\Debug\net8.0\0x03-control_loops.pdb
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\obj\Debug\net8.0\0x03-control_loops.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x03-control_loops\0x03-control_loops\obj\Debug\net8.0\ref\0x03-control_loops.dll
