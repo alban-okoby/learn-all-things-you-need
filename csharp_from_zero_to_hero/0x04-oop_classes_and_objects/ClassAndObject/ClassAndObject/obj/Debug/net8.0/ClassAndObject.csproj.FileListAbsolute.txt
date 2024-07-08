@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.exe
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.deps.json
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.runtimeconfig.json
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.dll
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\bin\Debug\net8.0\ClassAndObject.pdb
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.sourcelink.json
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.dll
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\obj\Debug\net8.0\refint\ClassAndObject.dll
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.pdb
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ClassAndObject.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x04-oop_classes_and_objects\ClassAndObject\ClassAndObject\obj\Debug\net8.0\ref\ClassAndObject.dll
