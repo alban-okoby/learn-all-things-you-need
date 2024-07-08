@@ -1,0 +1,15 @@
+c:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\obj\Debug\net8.0\0x02-control_structures.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\obj\Debug\net8.0\0x02-control_structures.AssemblyInfoInputs.cache
+c:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\obj\Debug\net8.0\0x02-control_structures.AssemblyInfo.cs
+c:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\obj\Debug\net8.0\0x02-control_structures.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\obj\Debug\net8.0\0x02-control_structures.sourcelink.json
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\bin\Debug\net8.0\0x02-control_structures.exe
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\bin\Debug\net8.0\0x02-control_structures.deps.json
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\bin\Debug\net8.0\0x02-control_structures.runtimeconfig.json
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\bin\Debug\net8.0\0x02-control_structures.dll
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\bin\Debug\net8.0\0x02-control_structures.pdb
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\obj\Debug\net8.0\0x02-control_structures.dll
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\obj\Debug\net8.0\refint\0x02-control_structures.dll
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\obj\Debug\net8.0\0x02-control_structures.pdb
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\obj\Debug\net8.0\0x02-control_structures.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\TRAINING\learn-all-things-you-need\csharp_from_zero_to_hero\0x02-control_structures\obj\Debug\net8.0\ref\0x02-control_structures.dll
