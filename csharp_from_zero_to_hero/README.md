@@ -56,180 +56,180 @@ Learning C# can offer several benefits: <br>
 - **Community and Support**: C# has a large and active developer community, which means you can find plenty of online resources, forums, and communities to seek help, share knowledge, and collaborate with fellow developers.
 - **Integration with Visual Studio**: C# integrates seamlessly with Visual Studio, a powerful and feature-rich integrated development environment (IDE). Visual Studio offers advanced debugging capabilities, code analysis tools, and other productivity features that can enhance your development workflow.  Ultimately, the decision to learn C# depends on your specific goals, interests, and career aspirations. If you are interested in Microsoft technologies, software development, or want to expand your programming skill set, learning C# can be a valuable investment.
 
-## Phase 1: Basics of C#
+## Phase 1: Basics of `C#`
 
 ### Introduction to Programming Concepts
 
-- **Basic concepts:** variables, data types, operators
-- **Control structures:** if, switch, loops
+-Basic concepts:** variables, data types, operators
+-Control structures:** if, switch, loops
 
-### Getting Started with C#
+### Getting Started with `C#`
 
-- **Introduction to C# and .NET framework**
-- **Setting up the development environment (Visual Studio)**
-- **Writing your first C# program (Hello World)**
+- Introduction to C# and .NET framework
+- Setting up the development environment (Visual Studio)
+- Writing your first C# program (Hello World)
 
 ### Basic Syntax and Language Fundamentals
 
-- **Variables and Data Types**
-- **Type Conversion**
-- **Operators:** arithmetic, logical, comparison
-- **Conditional Statements:** if, switch
-- **Loops:** for, while, do-while
+-Variables and Data Types**
+-Type Conversion**
+-Operators:** arithmetic, logical, comparison
+-Conditional Statements:** if, switch
+-Loops:** for, while, do-while
 
 ### Object-Oriented Programming (OOP)
 
-- **Classes and Objects**
-- **Constructors and Destructors**
-- **Inheritance**
-- **Polymorphism**
-- **Encapsulation**
-- **Abstraction**
+- Classes and Objects
+-Constructors and Destructors
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
 
 ## Phase 2: Intermediate Topics
 
 ### Advanced OOP Concepts
 
-- **Interfaces**
-- **Abstract Classes**
-- **Method Overloading and Overriding**
+- Interfaces
+- Abstract Classes
+- Method Overloading and Overriding
 
 ### Collections and Generics
 
-- **Arrays**
-- **Lists, Dictionaries, Stacks, Queues**
-- **Generic Collections**
+- Arrays
+- Lists, Dictionaries, Stacks, Queues
+- Generic Collections
 
 ### Exception Handling
 
-- **Try, Catch, Finally blocks**
-- **Creating custom exceptions**
+- `Try`, Catch, Finally blocks
+- Creating custom exceptions
 
 ### Delegates and Events
 
-- **Understanding Delegates**
-- **Events and Event Handling**
-- **Lambda Expressions**
+- Understanding Delegates
+- Events and Event Handling
+- Lambda Expressions
 
 ### LINQ (Language Integrated Query)
 
-- **Basics of LINQ**
-- **LINQ to Objects**
-- **LINQ to SQL**
-- **LINQ to XML**
+- Basics of LINQ
+- LINQ to Objects
+- LINQ to SQL
+- LINQ to XML
 
 ## Phase 3: Advanced Topics
 
 ### Asynchronous Programming
 
-- **Async and Await**
-- **Task-based Asynchronous Pattern (TAP)**
-- **Parallel Programming**
+- Async and Await
+- =*Task-based Asynchronous Pattern (TAP)
+- Parallel Programming
 
 ### File Handling
 
-- **Reading and Writing Files**
-- **Streams and I/O**
+- Reading and Writing Files
+- Streams and I/O
 
 ### Reflection and Attributes
 
-- **Understanding Reflection**
-- **Using Attributes**
+- Understanding Reflection
+- Using Attributes
 
 ### Networking
 
-- **Basic Networking Concepts**
-- **Working with HTTPClient**
+- Basic Networking Concepts
+- Working with HTTPClient
 
 ### Dependency Injection
 
-- **Understanding DI**
-- **Using DI in C#**
+- Understanding DI
+- Using DI in C#
 
 ## Phase 4: Building Applications
 
 ### Building Desktop Applications
 
-- **Introduction to Windows Forms**
-- **Introduction to WPF (Windows Presentation Foundation)**
+- Introduction to Windows Forms
+- Introduction to WPF (Windows Presentation Foundation)
 
 ### Building Web Applications
 
-- **Introduction to ASP.NET Core**
-- **MVC (Model-View-Controller) Pattern**
-- **Razor Pages**
+- Introduction to ASP.NET Core
+- MVC (Model-View-Controller) Pattern
+- Razor Pages
 
 ### Entity Framework Core
 
-- **Code-First Approach**
-- **Database-First Approach**
-- **Querying Data with Entity Framework**
+- Code-First Approach
+- Database-First Approach
+- Querying Data with Entity Framework
 
 ### Unit Testing
 
-- **Introduction to Unit Testing**
-- **Using Testing Frameworks (NUnit, xUnit)**
-- **Mocking Dependencies**
+- Introduction to Unit Testing
+- Using Testing Frameworks (NUnit, xUnit)
+- Mocking Dependencies
 
 ## Phase 5: Additional Skills and Best Practices
 
 ### Source Control
 
-- **Using Git**
-- **Working with GitHub**
+- Using Git
+- Working with GitHub
 
 ### Code Quality and Best Practices
 
-- **Clean Code Principles**
-- **Design Patterns**
-- **SOLID Principles**
+- Clean Code Principles
+- Design Patterns
+- SOLID Principles
 
 ### Continuous Integration/Continuous Deployment (CI/CD)
 
-- **Introduction to CI/CD**
-- **Using Azure DevOps or GitHub Actions**
+- Introduction to CI/CD
+- Using Azure DevOps or GitHub Actions
 
 ## Resources for Learning
 
 ### Books
 
-- **"C# in Depth" by Jon Skeet**
-- **"Pro C# 7: With .NET and .NET Core" by Andrew Troelsen**
+- "C# in Depth" by Jon Skeet
+- "Pro C# 7: With .NET and .NET Core" by Andrew Troelsen
 
 ### Online Courses
 
-- **Pluralsight**
-- **Udemy**
-- **Coursera**
+- Pluralsight
+- Udemy
+- Coursera
 
 ### Documentation and Tutorials
 
-- **Microsoft Docs**
-- **C# Corner**
-- **CodeProject**
+- Microsoft Docs
+- C# Corner
+- CodeProject
 
 ### Community and Forums
 
-- **Stack Overflow**
-- **Reddit (r/csharp)**
-- **GitHub (exploring open-source projects)**
+- Stack Overflow
+- Reddit (r/csharp)
+- GitHub (exploring open-source projects)
 
 ## Practice Projects
 
 ### Console Applications
 
-- **Simple Calculator**
-- **To-do List**
+- Simple Calculator
+- To-do List
 
 ### Web Applications
 
-- **Blogging Platform**
-- **E-commerce Website**
+- Blogging Platform
+- E-commerce Website
 
 ### Desktop Applications
 
-- **Personal Finance Manager**
-- **Media Player**
+- Personal Finance Manager
+- Media Player
 
 Happy Learning!
 
