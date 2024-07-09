@@ -80,7 +80,7 @@ namespace InheritanceAndAbStract
             person1.Age = 33;
             person1.Introduce();
 
-            // polymorphism
+            // polymorphism (Person can be a Girl or a Boy ..)
             Person girl = new Girl();
             Person boy = new Boy();
 
