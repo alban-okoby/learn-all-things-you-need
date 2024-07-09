@@ -23,7 +23,8 @@ Welcome to the C# Learning Roadmap! This guide is designed to help you progress 
   - [Reflection and Attributes](#reflection-and-attributes)
   - [Networking](#networking)
   - [Dependency Injection](#dependency-injection)
-- [Phase 4: Building Applications](#phase-4-building-applications)
+- [Phase 4: Building/Publish Applications](#phase-4-building-applications)
+  - [Building Console Applications](#building-console-applications)
   - [Building Desktop Applications](#building-desktop-applications)
   - [Building Web Applications](#building-web-applications)
   - [Entity Framework Core](#entity-framework-core)
@@ -146,7 +147,13 @@ Learning C# can offer several benefits: <br>
 - Understanding DI
 - Using DI in C#
 
-## Phase 4: Building Applications
+## Phase 4: Building/Publish Applications
+
+### Building Console Applications
+```
+dotnet publish --configuration Release --output ./publish
+dotnet build --configuration Release --output ./publish
+```
 
 ### Building Desktop Applications
 
