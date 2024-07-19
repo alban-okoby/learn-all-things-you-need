@@ -1,3 +1,6 @@
+![GitHub commit (branch)](https://img.shields.io/github/commit-activity/m/alban-okoby/learn-all-things-you-need)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/alban-okoby/learn-all-things-you-need)
+![GitHub last commit](https://img.shields.io/github/last-commit/alban-okoby/learn-all-things-you-need)
 # Learn what you need to 
 
 | Logo | Name | Subjets  |
