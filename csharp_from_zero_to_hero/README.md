@@ -103,7 +103,7 @@ Learning C# can offer several benefits: <br>
 
 ### Exception Handling
 
-- `Try`, Catch, Finally blocks
+- `Try`, `Catch`, `Finally` blocks
 - Creating custom exceptions
 
 ### Delegates and Events
@@ -152,7 +152,15 @@ Learning C# can offer several benefits: <br>
 ### Building Console Applications
 ```
 dotnet publish --configuration Release --output ./publish
+
+or 
+
 dotnet build --configuration Release --output ./publish
+
+or
+ 
+msbuild /t:Publish /p:Configuration=Release /p:OutputPath=./publish
+
 ```
 
 ### Building Desktop Applications
@@ -205,6 +213,7 @@ dotnet build --configuration Release --output ./publish
 
 ### Online Courses
 
+- [Miscrosolf Learning](https://learn.microsoft.com/en-us/training/dotnet/)
 - Pluralsight
 - Udemy
 - Coursera
