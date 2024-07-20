@@ -13,6 +13,7 @@ namespace Calculator
             {
                 Console.WriteLine("Enter the first number: ");
                 double num1 = Convert.ToDouble(Console.ReadLine());
+                
 
                 Console.WriteLine("Enter the second number: ");
                 double num2 = Convert.ToDouble(Console.ReadLine());

@@ -150,6 +150,7 @@ Learning C# can offer several benefits: <br>
 ## Phase 4: Building/Publish Applications
 
 ### Building Console Applications
+(See calculator or TodoList ) for example.
 ```
 dotnet publish --configuration Release --output ./publish
 
@@ -234,8 +235,8 @@ msbuild /t:Publish /p:Configuration=Release /p:OutputPath=./publish
 
 ### Console Applications
 
-- Simple Calculator
-- To-do List
+- [Simple Calculator](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/csharp_from_zero_to_hero/projects_pratices/Calculator)
+- [To-do List](https://github.com/alban-okoby/learn-all-things-you-need/tree/main/csharp_from_zero_to_hero/projects_pratices/TodoList)
 
 ### Web Applications
 
