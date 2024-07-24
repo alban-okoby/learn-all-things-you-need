@@ -1,0 +1,6 @@
+@firstCsharpMicroservice_HostAddress = http://localhost:5200
+
+GET {{firstCsharpMicroservice_HostAddress}}
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QOdjVrZSEn5HUkdQUwWsiMB0FoyXYzkByfYIGkHaR6U=",
+  "Source": "firstCsharpMicroservice",
+  "BasePath": "_content/firstCsharpMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
