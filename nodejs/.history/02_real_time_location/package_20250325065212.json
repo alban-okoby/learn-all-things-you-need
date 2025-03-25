@@ -1,0 +1,20 @@
+{
+  "name": "02_real_time_location",
+  "version": "1.0.0",
+  "description": "Real time location using openstreetmap",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alban-okoby/learn-all-things-you-need.git#main"
+  },
+  "author": "Alban Okoby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alban-okoby/learn-all-things-you-need/issues"
+  },
+  "homepage": "https://github.com/alban-okoby/learn-all-things-you-need/tree/main#readme"
+}
